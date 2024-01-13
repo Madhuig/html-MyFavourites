@@ -1,0 +1,47 @@
+body{
+    background-color: CornSilk;
+  }
+  .top{
+    font-family: "Lucida Handwriting",Cursive;
+    text-align: center;
+    border-style: dotted;
+    border-color: red;
+    border-width: 2px;
+     margin: 0px 2px 15px 2px;
+    padding: 0px 17px 5px 17px;
+   
+  }
+  .movies{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 25px;
+    margin: 0px 2px 15px 2px;
+    text-align: center;
+    background-color: Silver;
+  }
+  .books{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 25px;
+    margin: 0px 2px 15px 2px;
+    text-align: center; background-color: Silver;
+  }
+  .cricketers{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 25px;
+    margin: 0px 2px 15px 2px;
+    text-align: center; background-color: Silver;
+  }
+  .bottom{
+      border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+     margin: 0px 2px 15px 2px;
+    padding: 0px 17px 5px 17px;
+    text-align: center;
+  }
+  
